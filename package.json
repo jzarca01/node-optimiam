@@ -1,0 +1,14 @@
+{
+  "name": "node-optimiam",
+  "version": "1.0.0",
+  "description": "An API wrapper for the anti-waste app Optimiam",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jeremie Zarca",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.19.2"
+  }
+}
